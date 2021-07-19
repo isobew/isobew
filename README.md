@@ -4,7 +4,7 @@
 
 
 ### <p align="center"> My name is Isabella Firmino. </p> 
-#### <p align="center"> I'm from Amazonas, Brazil, and I'm  passionate about programming and for the study of science and physics. </br> I also love art, singing, dancing, acting, theater, piano, drawing and many other things. </p>
+#### <p align="center"> I'm from Amazonas, Brazil, and I'm  passionate about programming and for the study of science and physics. </br> I'm a multipotential person, so I also love art, singing, dancing, acting, theater, piano, drawing and many other things. </p>
 #### <p align="center"> I'm currently working as an aspiring full stack developer at <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a>. </p>
 
 
