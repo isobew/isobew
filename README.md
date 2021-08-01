@@ -21,27 +21,22 @@
   <img align="center" alt="Bel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bel-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Bel-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+ <img align="right" alt="Bel-gif" height="180" width="180" src="https://www.criarbanner.com.br/criargifs/a/7acc43c282a28704320e22ef771d8e21.gif">
 </div>
    
    ##
-   
-   </br>
-<div> 
-   <img align="right" alt="Bel-gif" height="180" width="180" src="https://www.criarbanner.com.br/criargifs/a/7acc43c282a28704320e22ef771d8e21.gif">
- 
-  ![Snake animation](https://github.com/isobew/isobew/blob/output/github-contribution-grid-snake.svg)
-   
- 
-</div>
-
- 
-<h3> 💬 Get in touch! </h3>
+   <div>
+ <h3> 💬 Get in touch! </h3>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/isobew" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato@"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabellafirmino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
 📫 E-mail: <a href="mailto:isabella.mfbr@gmail.com">isabella.mfbr@gmail.com</a>
+</div>
+
+ ![Snake animation](https://github.com/isobew/isobew/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **isobew/isobew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
