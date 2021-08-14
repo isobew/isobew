@@ -26,8 +26,8 @@
    
    ##
 <div>
- <h3> 💬 Get in touch! </h3>
- <p>📫 Gmail: <a href="mailto:isabella.mfbr@gmail.com">isabella.mfbr@gmail.com</a> </p>
+ <h3> 💬 Get in touch! </h3> 
+  <p>📫 Gmail: <a href="mailto:isabella.mfbr@gmail.com">isabella.mfbr@gmail.com</a> </p>
   <p>📫 Outlook: <a href="mailto:isabella.mfbr@gmail.com">isabella_mfbr@hotmail.com</a> </p>
     <a href="https://www.youtube.com/channel/UCLDqLXpf4YAsBZ_MAb322pg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/isobew" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
