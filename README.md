@@ -6,7 +6,7 @@
 ### <p align="center"> My name is Isabella Firmino. </p> 
 #### <p align="center"> I'm from Amazonas, Brazil, and I'm  passionate about programming and for the study of science and physics. </br> I'm a multipotential person, so I also love art, singing, dancing, acting, theater, piano, drawing and many other things. </p>
 #### <p align="center"> 💻 I'm a Front-End Developer Jr and UX/UI Designer</p>
-#### <p align="center"> I'm currently working as an aspiring Full Stack Developer at the code academy <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a> of <a href="https://alphalumen.org.br/">Instituto Alpha Lumen</a>. </p>
+#### <p align="center"> I'm currently working as an aspiring Full Stack Developer at the <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a> code academy at <a href="https://alphalumen.org.br/">Instituto Alpha Lumen</a>. </p>
 
 
  <div align="center">
