@@ -21,6 +21,7 @@
   <img align="center" alt="Bel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bel-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Bel-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Bel-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <!--<img align="right" alt="Bel-gif" height="180" width="180" src="https://www.criarbanner.com.br/criargifs/a/7acc43c282a28704320e22ef771d8e21.gif">-->
   <img align="right" alt="Bel-gif" height="180" width="180" src="https://user-images.githubusercontent.com/78851164/133872890-ee677be0-a572-445a-ac15-4626b73a314c.gif">
 </div>
@@ -30,7 +31,7 @@
  <h3> 💬 Get in touch! </h3> 
   <p>📫 Gmail: <a href="mailto:isabella.mfbr@gmail.com">isabella.mfbr@gmail.com</a> </p>
   <p>📫 Outlook: <a href="mailto:isabella.mfbr@gmail.com">isabella_mfbr@hotmail.com</a> </p>
-    <a href="https://www.youtube.com/channel/UCLDqLXpf4YAsBZ_MAb322pg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<!--     <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
     <a href="https://instagram.com/isobew" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!-- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>--> 
     <a href = "mailto:isabella.mfbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
