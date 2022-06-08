@@ -45,6 +45,7 @@
 
  ![Snake animation](https://github.com/isobew/isobew/blob/output/github-contribution-grid-snake.svg)
 
+<!--  ![Gif](https://user-images.githubusercontent.com/78851164/133872890-ee677be0-a572-445a-ac15-4626b73a314c.gif) -->
 
 <!--
 **isobew/isobew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
