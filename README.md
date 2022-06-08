@@ -3,11 +3,11 @@
 
 
 
-### <p align="center"> My name is Isabella Firmino. </p> 
-#### <p align="center"> I'm from Amazonas, Brazil, and I'm  passionate about programming and for the study of science.</p>
-#### <p align="center"> 💻 I'm a Full Stack Developer Jr and UX/UI Design student</p>
-#### <p align="center">I studied Full Stack Web Development at <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a> code academy</p>
-#### <p align="center"> And I'm currently working as an Full Stack Developer at the <a href="https://alphalumen.org.br/">Instituto Alpha Lumen</a> 💚</p>
+### <p align="center"> I'm Isabella Firmino. </p> 
+<!-- #### <p align="center"> I'm from Amazonas, Brazil, and I'm  passionate about programming and for the study of science.</p> -->
+#### <p align="center"> Full Stack Developer at the <a href="https://alphalumen.org.br/">Instituto Alpha Lumen</a> 💚 and UX/UI Design student 🎨</p>
+<!-- #### <p align="center">I studied Full Stack Web Development at <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a> code academy</p> -->
+<!-- #### <p align="center"> And I'm currently working as an Full Stack Developer at the <a href="https://alphalumen.org.br/">Instituto Alpha Lumen</a> 💚</p> -->
 
 
  <div align="center">
@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isobew&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isobew&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br />
+<div align='center' style="display: inline_block"><br />
   <img align="center" alt="Bel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Bel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="Bel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -28,7 +28,7 @@
   <img align="center" alt="Bel-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
   <img align="center" alt="Bel-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
   <!--<img align="right" alt="Bel-gif" height="180" width="180" src="https://www.criarbanner.com.br/criargifs/a/7acc43c282a28704320e22ef771d8e21.gif">-->
-  <img align="right" alt="Bel-gif" height="180" width="180" src="https://user-images.githubusercontent.com/78851164/133872890-ee677be0-a572-445a-ac15-4626b73a314c.gif" />
+<!--   <img align="right" alt="Bel-gif" height="180" width="180" src="https://user-images.githubusercontent.com/78851164/133872890-ee677be0-a572-445a-ac15-4626b73a314c.gif" /> -->
 </div>
    
    ##
@@ -44,9 +44,11 @@
 </div>
 
  <img src='https://activity-graph.herokuapp.com/graph?username=isobew&custom_title=Isabella%20Firmino%27s%20Contribution%20Graph&bg_color=161b22&color=c950a1&line=ffffff&point=c950a1&hide_border=true'/>
- <div style='display: flex; justify-content: center;'>
-  <img src='https://github.com/isobew/isobew/blob/output/github-contribution-grid-snake.svg' />
+ <div align='center'>
+  <img margin='0 auto' alt='Snake animation' src='https://github.com/isobew/isobew/blob/output/github-contribution-grid-snake.svg' />
  </div>
+ 
+<!--  ![Snake animation](link) -->
 
 <!--  ![Gif](https://user-images.githubusercontent.com/78851164/133872890-ee677be0-a572-445a-ac15-4626b73a314c.gif) -->
 
