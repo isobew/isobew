@@ -43,7 +43,10 @@
     <a href="https://www.linkedin.com/in/isabellafirmino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
 </div>
 
- ![Snake animation](https://github.com/isobew/isobew/blob/output/github-contribution-grid-snake.svg)
+ <img src='https://activity-graph.herokuapp.com/graph?username=isobew&custom_title=Isabella%20Firmino%27s%20Contribution%20Graph&bg_color=161b22&color=c950a1&line=ffffff&point=c950a1&hide_border=true'/>
+ <div style='display: flex; justify-content: center;'>
+  <img src='https://github.com/isobew/isobew/blob/output/github-contribution-grid-snake.svg' />
+ </div>
 
 <!--  ![Gif](https://user-images.githubusercontent.com/78851164/133872890-ee677be0-a572-445a-ac15-4626b73a314c.gif) -->
 
