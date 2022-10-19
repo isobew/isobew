@@ -28,6 +28,7 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img align="center" alt="Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
   <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <!--<img align="right" alt="Bel-gif" height="180" width="180" src="https://www.criarbanner.com.br/criargifs/a/7acc43c282a28704320e22ef771d8e21.gif">-->
 <!--   <img align="right" alt="Bel-gif" height="180" width="180" src="https://user-images.githubusercontent.com/78851164/133872890-ee677be0-a572-445a-ac15-4626b73a314c.gif" /> -->
 </div>
