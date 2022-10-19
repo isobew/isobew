@@ -5,7 +5,8 @@
 
 ### <p align="center"> I'm Isabella Firmino. </p> 
 <!-- #### <p align="center"> I'm from Amazonas, Brazil, and I'm  passionate about programming and for the study of science.</p> -->
-#### <p align="center"> Full Stack Developer at the <a href="https://alphalumen.org.br/">Instituto Alpha Lumen</a> 💚 and UX/UI Design student 🎨</p>
+#### <p align="center"> Full Stack Developer and UX/UI Design student 🎨</p>
+#### <p align="center"> Artificial Intelligence and Computer Science Student </p>
 <!-- #### <p align="center">I studied Full Stack Web Development at <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a> code academy</p> -->
 <!-- #### <p align="center"> And I'm currently working as an Full Stack Developer at the <a href="https://alphalumen.org.br/">Instituto Alpha Lumen</a> 💚</p> -->
 
@@ -16,17 +17,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isobew&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align='center' style="display: inline_block"><br />
-  <img align="center" alt="Bel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Bel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="Bel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Bel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Bel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="Bel-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Bel-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"/>
-  <img align="center" alt="Bel-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/>
-  <img align="center" alt="Bel-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-  <img align="center" alt="Bel-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
-  <img align="center" alt="Bel-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"/>
+  <img align="center" alt="Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/>
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+  <img align="center" alt="Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+  <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
   <!--<img align="right" alt="Bel-gif" height="180" width="180" src="https://www.criarbanner.com.br/criargifs/a/7acc43c282a28704320e22ef771d8e21.gif">-->
 <!--   <img align="right" alt="Bel-gif" height="180" width="180" src="https://user-images.githubusercontent.com/78851164/133872890-ee677be0-a572-445a-ac15-4626b73a314c.gif" /> -->
 </div>
