@@ -3,10 +3,12 @@
 
 
 
-### <p align="center"> I'm Isabella Firmino. </p> 
+### <p align="center"> I'm Isabella Firmino </p> 
+
 <!-- #### <p align="center"> I'm from Amazonas, Brazil, and I'm  passionate about programming and for the study of science.</p> -->
-#### <p align="center"> FullStack Developer and curious UX/UI Design student 🎨</p>
+#### <p align="center"> Software Engineer/FullStack Developer </p>
 #### <p align="center"> Artificial Intelligence and Computer Science undergraduate </p>
+#### <p align="center">Aspiring Computer Vision Engineer</p>
 <!-- #### <p align="center">I studied Full Stack Web Development at <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a> code academy</p> -->
 <!-- #### <p align="center"> And I'm currently working as an Full Stack Developer at the <a href="https://alphalumen.org.br/">Instituto Alpha Lumen</a> 💚</p> -->
 
