@@ -47,7 +47,7 @@
     <a href="https://www.linkedin.com/in/isabellafirmino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
 </div>
 
- <img src='https://activity-graph.herokuapp.com/graph?username=isobew&custom_title=Isabella%20Firmino%27s%20Contribution%20Graph&bg_color=161b22&color=c950a1&line=ffffff&point=c950a1&hide_border=true'/>
+<!--  <img src='https://activity-graph.herokuapp.com/graph?username=isobew&custom_title=Isabella%20Firmino%27s%20Contribution%20Graph&bg_color=161b22&color=c950a1&line=ffffff&point=c950a1&hide_border=true'/> -->
  <div align='center'>
   <img margin='0 auto' alt='Snake animation' src='https://github.com/isobew/isobew/blob/output/github-contribution-grid-snake.svg' />
  </div>
