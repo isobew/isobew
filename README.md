@@ -28,9 +28,12 @@
 
 
  <div align="center">
- <a href="https://github.com/isobew"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isobew&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isobew&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/isobew">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=isobew&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/isobew">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=isobew&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais utilizadas" />
+  </a>
 </div>
 <div align='center' style="display: inline_block"><br />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
