@@ -11,6 +11,10 @@
 🇧🇷 PT-BR
 
    Sou Engenheira de Software com +4 anos de experiência no desenvolvimento Full Stack (PHP/Laravel, React, JS/TS, PostgreSQL, MySQL) e graduada em Inteligência Artificial.
+   
+   Sinceramente, consigo aprender qualquer coisa.
+</p>
+
    <!-- Atualmente, estou direcionando toda a minha bagagem de arquitetura de software, lógica e bancos de dados para o ecossistema Salesforce, com foco em desenvolvimento back-end e front-end na plataforma.
 
    Rápida em aprender novas tecnologias, motivada por desafios complexos e focada em construir soluções eficientes no ecossistema Trailblazer.
@@ -18,10 +22,13 @@
    🎯 Foco atual: Apex, Lightning Web Components (LWC), Salesforce Flows, SOQL e arquitetura da plataforma. -->
 
 
-
+#### <p align="center"> 
 🇺🇸 EN-US 
 
    Software Engineer with 4+ years of experience in Full Stack development (PHP/Laravel, React, JS/TS, PostgreSQL, MySQL) and a degree in Artificial Intelligence. 
+   
+   
+   Honestly, I can learn anything.
    <!-- I am now leveraging my strong background in software engineering, database design, and web development to build scalable solutions on the Salesforce platform.
 
    Fast learner, highly motivated by complex tech challenges, and dedicated to mastering the Salesforce ecosystem.
@@ -29,7 +36,7 @@
    🎯 Current Focus: Apex, Lightning Web Components (LWC), Salesforce Flows, SOQL, and Platform Architecture. --> 
    </p>
 
-
+<br></br>
  <div align="center">
   <a href="https://github.com/isobew">
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=isobew&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
