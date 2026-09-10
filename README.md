@@ -10,21 +10,24 @@
 #### <p align="center"> 
 🇧🇷 PT-BR
 
-   Sou Engenheira de Software com +4 anos de experiência no desenvolvimento Full Stack (PHP/Laravel, React, JS/TS, PostgreSQL, MySQL) e graduada em Inteligência Artificial. Atualmente, estou direcionando toda a minha bagagem de arquitetura de software, lógica e bancos de dados para o ecossistema Salesforce, com foco em desenvolvimento back-end e front-end na plataforma.
+   Sou Engenheira de Software com +4 anos de experiência no desenvolvimento Full Stack (PHP/Laravel, React, JS/TS, PostgreSQL, MySQL) e graduada em Inteligência Artificial.
+   <!-- Atualmente, estou direcionando toda a minha bagagem de arquitetura de software, lógica e bancos de dados para o ecossistema Salesforce, com foco em desenvolvimento back-end e front-end na plataforma.
 
    Rápida em aprender novas tecnologias, motivada por desafios complexos e focada em construir soluções eficientes no ecossistema Trailblazer.
 
-   🎯 Foco atual: Apex, Lightning Web Components (LWC), Salesforce Flows, SOQL e arquitetura da plataforma.
+   🎯 Foco atual: Apex, Lightning Web Components (LWC), Salesforce Flows, SOQL e arquitetura da plataforma. -->
 
 
 
 🇺🇸 EN-US 
 
-   Software Engineer with 4+ years of experience in Full Stack development (PHP/Laravel, React, JS/TS, PostgreSQL, MySQL) and a degree in Artificial Intelligence. I am now leveraging my strong background in software engineering, database design, and web development to build scalable solutions on the Salesforce platform.
+   Software Engineer with 4+ years of experience in Full Stack development (PHP/Laravel, React, JS/TS, PostgreSQL, MySQL) and a degree in Artificial Intelligence. 
+   <!-- I am now leveraging my strong background in software engineering, database design, and web development to build scalable solutions on the Salesforce platform.
 
    Fast learner, highly motivated by complex tech challenges, and dedicated to mastering the Salesforce ecosystem.
 
-   🎯 Current Focus: Apex, Lightning Web Components (LWC), Salesforce Flows, SOQL, and Platform Architecture. </p>
+   🎯 Current Focus: Apex, Lightning Web Components (LWC), Salesforce Flows, SOQL, and Platform Architecture. --> 
+   </p>
 
 
  <div align="center">
